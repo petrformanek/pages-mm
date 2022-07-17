@@ -1,4 +1,6 @@
 main:
+  - title: "Jak to funguje"
+    url: /jak-se-odnaucit-bolest/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
